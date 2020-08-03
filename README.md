@@ -1,6 +1,7 @@
 # 👨🏻‍💻 Thiago Freitas
 
- ### Estudante de gestão de TI e desenvolvedor Front-End. Residente de Brasília-DF
+ ### Estudante de gestão de TI e desenvolvedor Front-End.
+### Brasília-DF
 
 ## 📫 Contact
 [![Github Badge](https://img.shields.io/badge/-Github-7159c1?style=flat-square&color=black&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/ThiagoFReis)
