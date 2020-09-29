@@ -4,7 +4,7 @@
 ### Brasília-DF
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoFReis&layout=compact&show_icons=true&title_color=5C2DAE&icon_color=5C2DAE)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoFReis&layout=compact&show_icons=true&title_color=5C2DAE&icon_color=5C2DAE)
 
 ## 📫 Contact
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omariosouto)](https://www.linkedin.com/in/thiago-freitas-b6986a155/)
