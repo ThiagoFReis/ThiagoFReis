@@ -1,7 +1,6 @@
 # 👨🏻‍💻 Thiago Freitas
 
  ### Estudante de gestão de TI e desenvolvimento Front-End.
-### Brasília-DF
 
 ### Conhecimentos 📚
 - **Bancos de dados**: MySQL, SQL Server e Noções em MongoDB;
