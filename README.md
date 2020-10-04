@@ -3,6 +3,10 @@
  ### Estudante de gestão de TI e desenvolvimento Front-End.
 ### Brasília-DF
 
+### Conhecimentos 📚
+Bancos de dados: MySQL, SQL Server e Noções em MongoDB;
+Back-End: PHP e NodeJS;
+Front-End: Javascript, Typescript, ReactJS, Bootstrap, HTML5, CSS3, SASS e noções em Angular;
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoFReis&layout=compact&show_icons=true&title_color=5C2DAE&icon_color=5C2DAE)
 
