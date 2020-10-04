@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Thiago Freitas
 
- ### Estudante de gestão de TI e desenvolvedor Front-End.
+ ### Estudante de gestão de TI e desenvolvimento Front-End.
 ### Brasília-DF
 
 
