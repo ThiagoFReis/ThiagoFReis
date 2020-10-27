@@ -3,9 +3,11 @@
  ### Estudante de gestão de TI e desenvolvimento Full Stack.
 
 ### Conhecimentos 📚
-- **Bancos de dados**: MySQL, SQLite e Noções em MongoDB;
-- **Back-End**: PHP e NodeJS;
+
 - **Front-End**: Javascript, Typescript, ReactJS, React Native, Bootstrap, HTML5, CSS3 e SASS;
+- **Back-End**: PHP e NodeJS;
+- **Bancos de dados**: MySQL, SQLite e Noções em MongoDB;
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoFReis&layout=compact&show_icons=true&title_color=5C2DAE&icon_color=5C2DAE)
 
