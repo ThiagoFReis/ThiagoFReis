@@ -5,7 +5,7 @@
 ### Conhecimentos 📚
 
 - **Front-End**: Javascript, Typescript, ReactJS, React Native, Bootstrap, HTML5, CSS3 e SASS;
-- **Back-End**: PHP e NodeJS;
+- **Back-End**: NodeJS;
 - **Bancos de dados**: MySQL, SQLite e Noções em MongoDB;
 
 
