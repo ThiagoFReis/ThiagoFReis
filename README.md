@@ -1,10 +1,10 @@
 # 👨🏻‍💻 Thiago Freitas
 
- ### Estudante de gestão de TI e desenvolvimento Front-end.
+ ### Front End developer Jr.
 
 ### Conhecimentos 📚
 
-- **Front-End**: Javascript, Typescript, ReactJS, React Native, Bootstrap, HTML5, CSS3 e SASS;
+- **Front-End**: Javascript, Typescript, ReactJS, React Native, Bootstrap, HTML5 e CSS3;
 - **Back-End**: NodeJS;
 
 
