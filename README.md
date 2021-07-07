@@ -1,6 +1,5 @@
 # 👨🏻‍💻 Thiago Freitas
 
- ### Front End developer Jr.
 
 ### Conhecimentos 📚
 
