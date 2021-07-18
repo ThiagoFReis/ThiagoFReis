@@ -4,7 +4,7 @@
 ### Conhecimentos 📚
 
 - **Front-End**: Javascript, Typescript, ReactJS, React Native, Bootstrap, HTML5 e CSS3;
-- **Back-End**: Java, NodeJS;
+- **Back-End**: Java, JPA, Hibernate, NodeJS;
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoFReis&layout=compact&show_icons=true&title_color=5C2DAE&icon_color=5C2DAE)
