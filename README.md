@@ -3,7 +3,7 @@
 
 ### Conhecimentos 📚
 
-- **Front-End**: Javascript, Typescript, ReactJS, React Native, Bootstrap, HTML5 e CSS3;
+- **Front-End**: Javascript, ReactJS, Bootstrap, HTML5 e CSS3;
 - **Back-End**: Java, Spring, JPA, Hibernate; 
 
 
