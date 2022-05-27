@@ -2,8 +2,9 @@
 
 
 ### Conhecimentos 📚
-- **Front-End**: React
-- **Back-End**: Java, Spring, JPA, Hibernate; 
+- **Front-End**: React;
+- **Back-End**: Java, Spring, MVC; 
+- **Banco de Dados**: PostgreSQL, MongoDB;
 
 
 ## 📫 Contact
