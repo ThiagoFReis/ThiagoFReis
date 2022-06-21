@@ -4,7 +4,7 @@
 ### 📚 My Skills
 - **Back-End**: Java, Spring, Maven, Hibernate, MVC; 
 - **Databases**: PostgreSQL, MySQL, MongoDB;
-- **Agile Methodology**: Scrum;
+- **Agile Methodology**: SCRUM;
 
 ### 📫 Contact me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omariosouto)](https://www.linkedin.com/in/thiago-freitas-b6986a155/)
