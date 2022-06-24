@@ -22,7 +22,7 @@ public class MyBackendSkills{
   
   String deploy = "Azure"+" Heroku"+" AWS";
  
-  String agileMethodology = "SCRUM";
+  String agileMethodology = "Scrum";
   
   public enum Testing {
         JUNIT;
