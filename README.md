@@ -20,7 +20,7 @@ public class MyBackendSkills{
 
   System.out.println(databases);
   
-  String deploy = "Azure"+" Heroku"+" AWS";
+  String deploy = "Azure" + " Heroku" + " AWS";
  
   String agileMethodology = "Scrum";
   
