@@ -12,7 +12,7 @@ public class MyBackendSkills{
   ArrayList<String> databases = new ArrayList<>();
     databases.add("MySQL");
     databases.add("MongoDB");
-    databases.add("PostgresSQL");
+    databases.add("PostgreSQL");
     databases.add("SQLServer");
     databases.add("SQLite");
   }
