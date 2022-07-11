@@ -11,7 +11,7 @@ public class MyBackendSkills{
   String[] backendSkills = {"Spring Boot", "Hibernate", "Maven", "Spring Security", "MVC"};
   ArrayList<String> databases = new ArrayList<>();
     databases.add("MySQL");
-    databases.add("MongoDb");
+    databases.add("MongoDB");
     databases.add("PostgresSQL");
     databases.add("SQLServer");
     databases.add("SQLite");
