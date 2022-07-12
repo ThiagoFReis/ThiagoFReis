@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-7159c1?style=flat-square&logo=Gmail&logoColor=white&color=red&link=mailto:thiagofreitas201717@gmail.com)](mailto:thiagofreitas201717@gmail.com)
 
 ```java 
-public class MyBackendSkills{
+public class MyBackendSkills {
   String language = "Java"; 
   String framework = "Spring";
   String[] backendSkills = {"Spring Boot", "Hibernate", "Maven", "Spring Security", "MVC"};
