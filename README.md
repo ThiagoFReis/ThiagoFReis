@@ -9,7 +9,7 @@ public class MyBackendSkills{
   String language = "Java"; 
   String framework = "Spring";
   String[] backendSkills = {"Spring Boot", "Hibernate", "Maven", "Spring Security", "MVC"};
-  ArrayList<String> databases = new ArrayList<>();
+  List<String> databases = new ArrayList<>();
     databases.add("MySQL");
     databases.add("MongoDB");
     databases.add("PostgreSQL");
