@@ -8,18 +8,18 @@
 public class MyBackendSkills {
   String language = "Java"; 
   String framework = "Spring";
-  String[] backendSkills = {"Spring Boot", "Hibernate", "Maven", "Spring Security", "MVC"};
+  String[] backendSkills = {"Spring Boot", "EJB", "Hibernate", "Maven", "Spring Security", "MVC", "Microservices", "Spring Batch"};
   List<String> databases = new ArrayList<>();
-    databases.add("MySQL");
-    databases.add("MongoDB");
-    databases.add("PostgreSQL");
+    databases.add("DB2");
     databases.add("SQLServer");
+    databases.add("PostgreSQL");
     databases.add("SQLite");
+    databases.add("MongoDB");
   }
 
   System.out.println(databases);
   
-  String deploy = "Azure" + " Heroku" + " AWS";
+  String deploy = "Heroku";
  
   String agileMethodology = "Scrum";
   
